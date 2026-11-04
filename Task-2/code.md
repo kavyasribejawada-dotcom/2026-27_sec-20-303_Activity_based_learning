@@ -1,4 +1,4 @@
-*# 2. Manufacturing Cost and Profitability Analysis Using Python
+*# 8. Manufacturing Cost and Profitability Analysis Using Python
 
 ## 1. Problem Statement
 
