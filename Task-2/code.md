@@ -1,4 +1,4 @@
-# 3. Hospital Billing and Patient Classification Using Python
+# 3. Hospital Billing and Patient Classification Using Python.
 
 ## 1. Problem Statement
 3. Hospital Billing and Patient Classification: Process consultation, diagnostic, and treatment charges, apply conditional concessions, validate billing constraints, and classify patients according to a supplied payment policy.
